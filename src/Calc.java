@@ -2,6 +2,7 @@
 public class Calc {
 
 	public int add(int x,int y) {
+		System.out.println("added");
 		return x+y;
 	}
 	public int subtract(int x,int y) {
