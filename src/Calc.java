@@ -6,6 +6,7 @@ public class Calc {
 		return x+y;
 	}
 	public int subtract(int x,int y) {
+		System.out.println("subtracted");
 		return x-y;
 	}
 	public int mul(int x,int y) {
